@@ -61,6 +61,7 @@
   V(atom_common_command_line)        \
   V(atom_common_crash_reporter)      \
   V(atom_common_features)            \
+  V(atom_common_mouse)               \
   V(atom_common_native_image)        \
   V(atom_common_native_theme)        \
   V(atom_common_notification)        \
